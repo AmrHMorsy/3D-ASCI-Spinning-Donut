@@ -14,4 +14,4 @@ To build the program:
 	
 ### Results
 
-![donut](https://user-images.githubusercontent.com/56271967/175793971-483aeae8-e6a6-459d-837c-fb5f937c8585.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56271967/175794269-1cf476b3-f89c-4a76-ba4d-196065578419.gif)
