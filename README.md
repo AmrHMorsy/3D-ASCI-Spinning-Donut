@@ -1,7 +1,7 @@
-# ASCI Spinning Donut
+# 3D ASCI Spinning Donut
 
 ### Project Description
-This is a colored spinning donut, fully simulated with just ASCII codes and implemented using C language. This project was developed using the help of this blog post https://www.a1k0n.net/2011/07/20/donut-math.html
+This is a simulation of 3D ASCI spinning donut implemented using C language. This project was developed using the help of the blog post https://www.a1k0n.net/2011/07/20/donut-math.html
       
 ### How To Build ?
 
