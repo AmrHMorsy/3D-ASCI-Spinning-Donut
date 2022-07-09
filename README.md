@@ -12,4 +12,7 @@ To build the program:
 	
 ### Results
 
-![3DSpinningDonut](https://user-images.githubusercontent.com/56271967/178088462-cde3b6a2-6159-451e-9d3d-7df5a2519681.gif)
+
+
+https://user-images.githubusercontent.com/56271967/178088586-5358950a-6fe7-4b56-bb91-a6f89725ab3a.mov
+
